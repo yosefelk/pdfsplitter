@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--PDFUnisci config-->
+<config>
+  <!--It indicates the number of digits when you divide a PDF-->
+  <DefaultDigit>3</DefaultDigit>
+  <!--The program will remain open until you press any key-->
+  <ExitConfirmation>0</ExitConfirmation>
+  <!--If set to zero disables the function to replace the cover-->
+  <CoverFunction>1</CoverFunction>
+  <!--If set to zero disables the function to add Bookmarks when merge PDF-->
+  <Bookmarks>0</Bookmarks>
+</config>
